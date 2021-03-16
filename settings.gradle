@@ -1,2 +1,3 @@
+include ':components'
 include ':app'
 rootProject.name = "AdvancedMoreTab"
